@@ -24,4 +24,5 @@ node server.js
 
 - É necessário informar um nome de usuário para utilizar o chat ao iniciar o client
 - Para conectar mais de um usuário no caht basta abrir outro terminal e executar o client
+- Para desconectar um client envie a palavra sair no chat
 - A aplicação utiliza a porta 3333, caso ela esteja ocupada, troque a porta.
