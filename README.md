@@ -15,7 +15,7 @@ node server.js
 Depois, execute o client através do seguinte comando:
 
 ```
-node server.js
+node client.js
 ```
 
 ---
